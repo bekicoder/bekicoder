@@ -29,7 +29,7 @@ Hi! I’m Bereket Girma, a 16-year-old self-taught full-stack developer from Eth
 I specialize in building web applications with **clean code, practical solutions, and modern technologies**.  
 I’m passionate about learning by building projects and improving every day.  
 
-- 🔭 **I’m currently working on:** [Name of your main project]
+- 🔭 **I’m currently working on:** Building a high-scale full-stack application.
 - 🌱 **Currently learning:** Advanced Backend Architecture & System Design
 - 💬 **Ask me about:** React, Next.js, and SQL Database design
 - ⚡ **Fun fact:** I prefer Neovim over traditional IDEs for speed.
