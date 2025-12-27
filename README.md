@@ -44,8 +44,8 @@ I’m passionate about learning by building projects and improving every day.
 
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
-| Portfolio Website | Personal website showcasing my work | HTML, CSS, JS, React, Tailwind | [View](https://your-portfolio-link.com) |
-| E-commerce App | Full-stack online store with authentication | Next.js, Node.js, Express, MySQL | [GitHub](https://github.com/yourusername/ecommerce) |
-| Chat App | Real-time messaging application | React, Node.js, Socket.io | [GitHub](https://github.com/yourusername/chat-app) |
+| Portfolio Website | Personal website showcasing my work | HTML, CSS, JS, React, Tailwind | [View](https://bereket-portfolio-app.vercel.app) |
+| Ella Kitchen Cafe	| Online food ordering system for hotels |Tailwind, Node.js, Express, Postgresql | [Vercel](https://ella-cafe.vercel.app) |
+| Hossana Bus | Digital bus ticket booking platform | Tailwind, Node.js, Express, Postgresql | [Vercel](https://hossana-bus.vercel.app/) |
 
 ---
